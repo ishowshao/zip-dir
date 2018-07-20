@@ -1,2 +1,2 @@
 # zip-dir
-archive a dir to zip
+archive a directory to zip
