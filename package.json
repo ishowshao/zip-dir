@@ -1,6 +1,6 @@
 {
   "name": "zip-directory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "archive a directory to zip",
   "main": "index.js",
   "scripts": {
